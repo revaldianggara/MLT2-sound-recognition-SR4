@@ -15,7 +15,7 @@
 ### Selected Theme: [Selected Theme]
 ---
 
-### Title of the Project: [Name of your project]
+### Title of the Project: Sound Emotions Classification
 ---
 
 ### Executive Summary:
