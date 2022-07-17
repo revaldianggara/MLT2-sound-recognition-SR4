@@ -20,16 +20,16 @@
 ---
 
 ### Executive Summary:
-__Problem__ :  Salah satu bentuk interaksi antar manusia adalah berdialog atau berbicara. Biasanya interaksi antar manusia tidak selalu baik karena faktor seperti perbedaan pemahaman, suasana hati, dan kondisi lingkungan saat berkomunikasi. Hal tersebut sangat mempengaruhi emosi seseorang.  Dalam proses interaksi manusia dan komputer (IMK), emosi tersebut bisa ditentukan atau diklasifikasi melalui sinyal suara.
+__Problem__ :  Salah satu bentuk interaksi antar manusia adalah berdialog atau berbicara. Biasanya interaksi antar manusia tidak selalu baik karena faktor seperti perbedaan pemahaman/penafsiran, suasana hati dan kondisi lingkungan saat berkomunikasi. Hal tersebut juga dipengaruhi oleh emosi seseorang.  Dalam proses interaksi manusia dan komputer (IMK), emosi tersebut antara lain bisa ditentukan atau diklasifikasi melalui sinyal suara.
 
-__Objective__ : Komputer akan mengklasifikasi emosi manusia berdasarkan suara guna menjalankan proses interaksi manusia dan komputer (IMK) lebih mengalir dan intuitif serta efektif dan efisien. Dataset yang digunakan bersifat open source dari University of Toronto yaitu Toronto emotional speech set (TESS).
+__Objective__ : Komputer akan mengklasifikasi emosi manusia berdasarkan suara guna menjalankan proses interaksi manusia dan komputer (IMK) yang lebih efektif. Dataset yang digunakan bersifat open source dari University of Toronto yaitu Toronto emotional speech set (TESS).
 
-__Solution__ : Solusi yang kami usulkan untuk membangun model dalam mengklasifikasikan emosi, sehingga dapat membantu memahami emosi berdasarkan suara.
+__Solution__ : Solusi yang kami usulkan untuk membangun model dalam mengklasifikasikan emosi, sehingga dapat membantu memahami emosi seseorang berdasarkan suara.
 
 ---
 
 ### Quotes : 
-Daripada membuat painkiller lebih baik membuat vitamin yang bisa dikonsumsi semua orang tanpa kecuali !
+Mengekspresikan emosi secara eksplisit lebih baik daripada secara implisit
 
 ---
 
@@ -79,6 +79,11 @@ Daftar Pustaka Jurnal dan Artikel  :
 [6] Sound Emotion Detection - https://medium.com/@tushar.gupta_47854/speech-emotion-detection-74337966cf2 -  2019 -  Tushar Gupta
 
 [7] Classifying emotions using audio recordings and python https://towardsdatascience.com/classifying-emotions-using-audio-recordings-and-python-434e748a95eb - 2021 - Tal Baram
+
+[8] Pesan Emosi dalam Psikologi Komunikasi https://www.usd.ac.id/pusat/puskaloka/detail.php?id=17, 2021 - Albertus Harimurti, S.Psi., M.Hum
+
+[9] Ekspresi Emosi dalam Bingkai Budaya https://buletin.k-pin.org/index.php/arsip-artikel/178-ekspresi-emosi-dalam-bingkai-budaya – 2017, Annisa Zahra Kawitri & Shavira Alissa
+
 
 --- 
 
