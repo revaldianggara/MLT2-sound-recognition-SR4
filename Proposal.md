@@ -12,7 +12,7 @@
 |  | Teguh Herwanto - 152236035101-123 | 
 ---
 
-### Selected Theme: [Selected Theme]
+### Selected Theme: Sound Recogniton
 ---
 
 ### Title of the Project: Sound Emotions Classification
