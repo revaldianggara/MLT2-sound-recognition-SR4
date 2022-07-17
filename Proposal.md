@@ -63,9 +63,10 @@ __Risk Breakdown Structure (RBS)__ :
 --- 
 
 ### Project Reference:
-Dataset : Toronto emotional speech set (TESS) (https://tspace.library.utoronto.ca/handle/1807/24487)
+Dataset: Toronto emotional speech set (TESS) (https://tspace.library.utoronto.ca/handle/1807/24487)
 
-Daftar Pustaka Jurnal dan Artikel  : 
+Daftar Pustaka Jurnal dan Artikel:
+
 [1] Toronto emotional speech set (TESS) – 2010 - Kate Dupuis, M. Kathleen Pichora-Fuller
 
 [2] Identifikasi Emosi Melalui Suara Menggunakan Support Vector Machine dan Convolutional Neural Network - 2021 – (Galang & Respati, 2021)
