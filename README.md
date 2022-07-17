@@ -1,4 +1,3 @@
-# Demo Day Proposal
 ## Machine Learning with TensorFlow Training
 ## Professional Academy Digital Talent Scholarship 2022
 ---
