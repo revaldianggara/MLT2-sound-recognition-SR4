@@ -19,10 +19,12 @@
 ---
 
 ### Executive Summary:
----
+__Problem__ :  Salah satu bentuk interaksi antar manusia adalah berdialog atau berbicara. Biasanya interaksi antar manusia tidak selalu baik karena faktor seperti perbedaan pemahaman suasana hati, dan kondisi lingkungan saat berkomunikasi. Hal tersebut sangat mempengaruhi emosi seseorang.  Dalam proses interaksi manusia dan komputer (IMK), emosi tersebut bisa ditentukan atau diklasifikasi melalui sinyal suara.
 
-### Deskripsi singkat (~500 karakter/100 kata) dari proyek Anda mencakup 
-Pernyataan Masalah, Pertanyaan Penelitian, Latar belakang masalah, dan alasan mengapa tim Anda ingin mengatasi masalah tersebut.
+__Objective__ : Komputer akan mengklasifikasi emosi manusia berdasarkan suara guna menjalankan proses interaksi manusia dan komputer (IMK) lebih mengalir dan intuitif serta efektif dan efisien. Dataset yang digunakan bersifat open source dari University of Toronto yaitu Toronto emotional speech set (TESS).
+
+__Solution__ : Solusi yang kami usulkan untuk membangun model dalam mengklasifikasikan emosi, sehingga dapat membantu memahami emosi berdasarkan suara.
+
 
 ---
 
