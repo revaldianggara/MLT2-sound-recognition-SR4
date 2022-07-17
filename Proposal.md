@@ -31,6 +31,7 @@ __Solution__ : Solusi yang kami usulkan untuk membangun model dalam mengklasifik
 ### Quotes : 
 Daripada membuat painkiller lebih baik membuat vitamin yang bisa dikonsumsi semua orang tanpa kecuali !
 
+---
 
 ### Project Scope & Deliverables:
 Mas Adi
