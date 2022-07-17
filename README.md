@@ -69,7 +69,7 @@ Daftar Pustaka Jurnal dan Artikel  :
 
 [2] Identifikasi Emosi Melalui Suara Menggunakan Support Vector Machine dan Convolutional Neural Network - 2021 – (Galang & Respati, 2021)
 
-[3] Deteksi Manusia Dalam Keadaan Emose Dengan Menggunakan Linear Predictive Coding (LPC) Dengan Klasifikasi Coarse to Fine Search (SRC) Berbasis Pengolahan Data - (Rahmawanthi et al., 2019)
+[3] Deteksi Manusia Dalam Keadaan Emosi Dengan Menggunakan Linear Predictive Coding (LPC) Dengan Klasifikasi Coarse to Fine Search (SRC) Berbasis Pengolahan Data - (Rahmawanthi et al., 2019)
 
 [4] Penerapan Risk Management Plan dalam Pengembangan Skala Enterprise - (Wahju & Emanuel, 2006)
 
