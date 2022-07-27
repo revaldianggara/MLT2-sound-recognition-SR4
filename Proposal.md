@@ -34,12 +34,16 @@ Mengekspresikan emosi secara eksplisit lebih baik daripada secara implisit
 ---
 
 ### Project Scope & Deliverables:
-Mas Adi
+Garis besar batasan proyek
+1.	Dataset menggunakan dataset TESS, berjumlah 2800 file audio. Dataset terdiri dari 200 target kata yang diucapkan oleh 2 (dua) aktor berusia 26 tahun dan 64 tahun dimana ucapannya adalah “Say the word …”
+2.	Klasifikasi menggunakan tensorflow dan metode CNN
+3.	Trial & eror sampai mendapatkan hasil model yang konvergen >= 80%.
+
 
 ---
 
 ### Project Schedule:
-Mas Adi
+
 
 ---
 
