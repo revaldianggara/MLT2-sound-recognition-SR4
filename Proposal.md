@@ -44,6 +44,7 @@ Garis besar batasan proyek
 
 ### Project Schedule:
 
+![image](https://user-images.githubusercontent.com/3156486/181306328-6e770f74-77fd-41b4-bdf7-0fd36839925f.png)
 
 ---
 
