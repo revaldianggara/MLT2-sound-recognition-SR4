@@ -1,0 +1,19 @@
+Penjelasan Demo Day 1
+00:56:01	Misbah Fahamsyah:	ASK_Misbah Fahamsyah_source dataset harus dipakai semua? di dataset tim saya ada sub directory juga. Misal yg kami ambil 1 sub aj untuk dikembangin, bolehkah?
+00:56:20	Misbah Fahamsyah:	sound recognition
+00:57:07	Misbah Fahamsyah:	okay, makasih kak
+Di Video Rekaman Demo Day 1 mulai menit ke 31:56
+
+01:28:42	NURKOMAR HIDAYA:	ASK_Nurkomar Hidaya_Mohon gambarkan dn Jelaskan terkati data Sound Recognition, dalam hal ini kita melakukan pengenalan sistem suara atau seperti apa,  ?
+Di Video Rekaman Demo Day 1 mulai menit ke 01:06:27
+
+
+Penjelasan Demo Day 2
+00:34:30	R. Farizd:	ASK_Farizd untuk dataset SpeechRecognition itu memang cuma berupa wav file nya saja ya kak? tidak ada label nya?kalau diberikan label sendiri takut salah
+Di Video Rekaman Demo Day 2 mulai menit ke 27:41
+
+00:44:13	R. Farizd:	ASK_Farizd berarti untuk Speech Recognition dipakai cuma satu folder misalnya Tess saja boleh ya?karna yang lain penamaan file nya ada yang tidak menunjukkan emosinya
+Di Video Rekaman Demo Day 2 mulai menit ke 39:46
+
+01:34:43	Hamzah N:	ASK_kalo buat modelnya 2 tapi buat 2 hal berbeda, di sound recognition bisa dibuat speech to text dan sentiment classification, itu gimana?
+Di Video Rekaman Demo Day 2 mulai menit ke 01:22:56
